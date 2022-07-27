@@ -37,7 +37,7 @@ body {
 
 .nav-masthead .nav-link:hover,
 .nav-masthead .nav-link:focus {
-  border-bottom-color: rgba(255, 255, 255, .25);
+  border-bottom-color:#92AA9B;
 }
 
 .nav-masthead .nav-link + .nav-link {
@@ -47,4 +47,9 @@ body {
 .nav-masthead .active {
   color: #fff;
   border-bottom-color: #fff;
+}
+
+.text-bg-dark {
+  color: #FBFBF2 !important;
+  background-color: #92AA9B !important;
 }
