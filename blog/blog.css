@@ -57,11 +57,11 @@ h1, h2, h3, h4, h5, h6 {
 /*
  * Footer
  */
-.blogFooter {
+.blog-footer {
   padding: 2.5rem 0;
-  color: #285943 !important;
+  color: #f9f9f9!important;
   text-align: center;
-  background-color: #f9f9f9;
+  background-color: #285943 !important;
   border-top: .05rem solid #e5e5e5;
 }
 .blog-footer p:last-child {
@@ -72,5 +72,8 @@ h1, h2, h3, h4, h5, h6 {
   color: #FBFBF2 !important;
   background-color: #285943 !important;
 }
+
+
+
 
 
