@@ -55,7 +55,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*
- * Footer
+ Footer: Add the same colour as the background colour from the main
  */
 .blog-footer {
   padding: 2.5rem 0;
@@ -68,6 +68,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0;
 }
 
+/* Changes orignal colour of blog templeate to green*/
 .text-bg-dark {
   color: #FBFBF2 !important;
   background-color: #285943 !important;
