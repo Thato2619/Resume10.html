@@ -72,9 +72,10 @@ h1, h2, h3, h4, h5, h6 {
 .text-bg-dark {
   color: #FBFBF2 !important;
   background-color: #285943 !important;
+  
 }
 
-/* Changes orignal colour of blog templeate to green*/
+/* css styling for the footer*/
 .blogFooter {
   padding: 2.5rem 0;
   color: #285943;
