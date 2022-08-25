@@ -87,6 +87,13 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0;
 }
 
+/*Change the background colour to Floral White whole page */
+body{
+  margin: 2;
+  padding: 4;
+  background-color: #FBFBF2;
+  color:#080708;
+}
 
 
 
