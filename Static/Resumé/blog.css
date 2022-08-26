@@ -101,11 +101,13 @@ body{
   color: #FBFBF2;
 }
 
+/*create background colour for "Volunteer" , "Find Me" and "More About Me" */
 .fst-italic{
   background-color: #92AA9B;
   color: #FBFBF2;
 }
 
+/*create background colour for "Experience", "Education" , "Achievement" and "Skills" */
 .blog-post-title{
   background-color: #285943;
   color: #FBFBF2;
